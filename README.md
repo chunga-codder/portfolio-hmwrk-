@@ -9,6 +9,17 @@ from my name to the schools attended and also, i talks about ways you can use to
 on it,it also contain information about my persornal portfolio including some of my familly members 
 i canr say this is actually a big project or an application which will involve a lot of explanations.
 
+
+
+![IMG_20201007_225305_2](https://user-images.githubusercontent.com/71171928/95392138-215f5080-08f0-11eb-8ad8-8fee5588c2b6.jpg)
+
+
+
+
+
+
+
+
 INSTALATION:
 
 
