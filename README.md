@@ -2,6 +2,8 @@ title:
 
 MY PORTFOLIO HOMEWORK
 
+![IMG_20201007_225251_5](https://user-images.githubusercontent.com/71171928/95392504-c417cf00-08f0-11eb-8a15-1838d5d567c6.jpg)
+
 DESCRIPTION:
 
 this ia about my portfolio, this include an about me page which talks all about who i am, 
